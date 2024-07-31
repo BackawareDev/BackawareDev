@@ -7,7 +7,7 @@ I'm David Lázaro from a lost island in the atlantic ocean, you probably never h
   - ##### High Technician Web Developer
   - ##### C1 English
   - ##### Computer Science Engineer
-I love to play tennis, staying fit and healthy food. 
+I love to play tennis, staying fit and eat healthy food. 
 My favourite movie of all time is The Matrix
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=108534&width=435&lines=Wake+up%2C+Neo...)](https://git.io/typing-svg)
 
